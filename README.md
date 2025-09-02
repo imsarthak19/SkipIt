@@ -38,4 +38,4 @@ This extension requires the following permissions:
 
 ## License
 
-MIT
+MIT License – free to use, modify, and share.
