@@ -38,8 +38,8 @@ function getVideoElement() {
 // Function to speed up video to 10x
 function speedUpVideo() {
   const video = getVideoElement();
-  if (video && video.playbackRate !== 3) {
-    video.playbackRate = 3;
+  if (video && video.playbackRate !== 4) {
+    video.playbackRate = 4;
     console.log('Ad detected - speeding up to 10x');
   }
 }
